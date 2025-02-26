@@ -82,7 +82,7 @@ export default function Home() {
         <h1 className="text-3xl font-bold text-gray-800">AppExtract</h1>
         <p className="text-gray-600 text-sm">Effortlessly generate Digital Asset Links from your APK files.</p>
       </div>
-      <Card className="w-full max-w-md shadow-xl">
+      <Card className="w-full max-w-lg shadow-xl">
         <CardHeader>
           <CardTitle className="text-lg">APK AssetLinks Generator</CardTitle>
           <CardDescription>

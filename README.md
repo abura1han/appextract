@@ -17,7 +17,7 @@ Ensure you have the following dependencies installed on your server:
 Then, clone the repository and install dependencies:
 
 ```sh
-git clone https://github.com/your-username/appextract.git
+git clone https://github.com/abura1han/appextract.git
 cd appextract
 npm install
 ```
